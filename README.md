@@ -32,5 +32,4 @@ In addition, in order for us to test your solution; make use of an embedded data
 * Note: If you have a Junior profile applying for us, you can submit us the assignment without sending your solution 
 with a mock data source in the service instead of using a SQL based database.
 
-We look forward to your solution and appreciate your time applying with us! 
-# comeon-gamelove-assignment
+We look forward to your solution and appreciate your time applying with us!
