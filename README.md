@@ -33,3 +33,16 @@ In addition, in order for us to test your solution; make use of an embedded data
 with a mock data source in the service instead of using a SQL based database.
 
 We look forward to your solution and appreciate your time applying with us!
+
+## More info
+
+External libraries used in this test: [Dropwizard](https://dropwizard.github.io/dropwizard/getting-started.html), 
+[Maven](https://maven.apache.org/guides/getting-started/maven-in-five-minutes.html),
+[Dropwizard DB](http://www.dropwizard.io/0.9.1/docs/manual/index.html)
+
+## Found a bug?
+
+Pull requests welcome, and maybe [we have a job for you](http://jobs.comeon.com/)? :)
+
+## How to Submit the Home Assignment
+Please, send us your code in a compressed file in an email.
