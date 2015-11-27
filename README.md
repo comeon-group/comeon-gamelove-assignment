@@ -1,5 +1,5 @@
 
-# Game Love (v1.1)
+# Game Love (v1.1.1)
 
 
 In this assignment, we look forward to test your skills on software development in areas of code quality and design of your solution. Please, be pragmatic and avoid over engineering your solution.
@@ -29,8 +29,8 @@ In this case, we recommend you to make use of dropwizard as a starting point for
 
 In addition, in order for us to test your solution; make use of an embedded database like h2, Sqlite using a local file database scheme with your working solution.
 
-*Note: If you have a Junior profile applying for us, you can submit us the assignment without sending your solution 
-with a mock data source in the service instead of using a SQL based database.*
+*Note: If you have a Junior profile applying for us, you can submit us the assignment by sending your solution 
+with a mock data source (i.e: a simple in memory data structure) in the service instead of using a SQL based database.*
 
 We look forward to your solution and appreciate your time applying with us!
 
@@ -45,4 +45,4 @@ External libraries used in this test: [Dropwizard](https://dropwizard.github.io/
 Pull requests welcome, and maybe [we have a job for you](http://jobs.comeon.com/)? :)
 
 ## How to Submit the Home Assignment
-Please, send us your code in a compressed file in an email.
+Please, send us your code in a compressed file in an email with the code project.
