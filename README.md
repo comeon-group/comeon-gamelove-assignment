@@ -30,7 +30,7 @@ In this case, we recommend you to make use of dropwizard as a starting point for
 In addition, in order for us to test your solution; make use of an embedded database like h2, Sqlite using a local file database scheme with your working solution.
 
 *Note: If you have a Junior profile applying for us, you can submit us the assignment by sending your solution 
-with a mock data source (i.e: a simple in memory data structure) in the service instead of using a SQL based database.*
+with a mock data source (i.e: a simple in memory data structure) in the service instead of using an SQL based database.*
 
 We look forward to your solution and appreciate your time applying with us!
 
