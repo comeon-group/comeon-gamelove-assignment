@@ -1,25 +1,23 @@
 
-# Game Love (v1.1.1)
+# Game Love Service
 
-
-In this assignment, we look forward to test your skills on software development in areas of code quality and design of your solution. Please, be pragmatic and avoid over engineering your solution.
+In this assignment, we look forward to test your skills in software development. Please, be pragmatic and avoid over engineering your solution.
 
 ## Problem Statement:
 
-In this scenario, we are requested to offer a solution that would allow us to keep track of what are the games that are more popular on our system, in number of likes. 
+We want you to implement a game love service that keeps track of the games that the player loves. 
 
-In this case, we want to keep track of some gaming statistics of the player which should meet these requirements:
-
-* Design a web service API that with information representing the player (i.e: player id), we can support the following:
-  * The endpoint will create a new entry on the tracking system upon feeding it with the following:
-    * The player that liked the game.
-    * The game he liked.
-  * The endpoint should support querying for lists of most popular liked games on the whole system:
-    * The list should contain the 5 top liked games by the users.
-    * Each item of this list should contain:
-        * The game id.
-        * Number of likes the game has.
-    * The list should be ordered for the top 5 games, on how successful the player has been playing them. In case, of a tie of entries; use the game with lowest id, in order to break the tie.
+* Design a REST API with the following:
+  * It should be possible to create a new entry by feeding it with the following:
+    * The player that loved the game.
+    * The game it loved.
+  * It should be possible to unlove games.
+  * It should be possible to fetch all games the a player haved loved.
+  * It should be possible to fetch the most loved games.
+    * The list should contain the x top loved games, where x should be possible to define in every request.    
+    * Each item in this list should contain:
+        * The game identifier.
+        * Number of loves the game has.
 
 ## Deliverables:
 
@@ -27,10 +25,7 @@ Your submission should contain a Java service based Maven project solution. Avoi
 
 In this case, we recommend you to make use of dropwizard as a starting point for your application. 
 
-In addition, in order for us to test your solution; make use of an embedded database like h2, Sqlite using a local file database scheme with your working solution.
-
-*Note: If you have a Junior profile applying for us, you can submit us the assignment by sending your solution 
-with a mock data source (i.e: a simple in memory data structure) in the service instead of using an SQL based database.*
+In addition, in order for us to test your solution; make use of an embedded database like H2 or Sqlite, using a local file database scheme with your working solution.
 
 We look forward to your solution and appreciate your time applying with us!
 
