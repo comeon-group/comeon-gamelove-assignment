@@ -12,7 +12,7 @@ We want you to implement a game love service that keeps track of the games that 
     * The player that loved the game.
     * The game it loved.
   * It should be possible to unlove games.
-  * It should be possible to fetch all games a player haved loved.
+  * It should be possible to fetch all games a player have loved.
   * It should be possible to fetch the most loved games.
     * The list should contain the x top loved games, where x should be possible to define in every request.    
     * Each item in this list should contain:
