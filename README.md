@@ -23,7 +23,7 @@ We want you to implement a game love service that keeps track of the games that 
 
 Your submission should contain a Java service based Maven project solution. Avoid sending large attachments in your submission so do a maven clean before submission.
 
-In this case, we recommend you to make use of spring-boot or dropwizard as a starting point for your application. 
+In this case, we recommend you to make use of spring boot as a starting point for your application. 
 
 In addition, in order for us to test your solution; make use of an embedded database like H2 or Sqlite, using a local file database scheme with your working solution.
 
@@ -31,9 +31,7 @@ We look forward to your solution and appreciate your time applying with us!
 
 ## More info
 
-External libraries used in this test: [Dropwizard](https://dropwizard.github.io/dropwizard/getting-started.html), 
-[Maven](https://maven.apache.org/guides/getting-started/maven-in-five-minutes.html),
-[Dropwizard DB](http://www.dropwizard.io/0.9.1/docs/manual/index.html)
+We encourage you to use Spring Boot in this test: [Spring Boot](https://spring.io/projects/spring-boot)
 
 ## Found a bug?
 
