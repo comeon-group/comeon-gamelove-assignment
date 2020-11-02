@@ -31,7 +31,7 @@ We look forward to your solution and appreciate your time applying with us!
 
 ## More info
 
-We encourage you to use Spring Boot in this test: [Spring Boot](https://spring.io/projects/spring-boot)
+We encourage you to use [Spring Boot](https://spring.io/projects/spring-boot) in this test.
 
 ## Found a bug?
 
