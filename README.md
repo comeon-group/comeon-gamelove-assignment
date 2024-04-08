@@ -18,6 +18,7 @@ We want you to implement a game love service that keeps track of the games that 
     * Each item in this list should contain:
         * The game identifier.
         * Number of loves the game has.
+  * It should be possible to fetch all games.
 
 ## Deliverables:
 
